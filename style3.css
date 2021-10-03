@@ -1,0 +1,59 @@
+.mainheading{
+    font-family: 'Roboto Condensed', sans-serif;  
+    font-size: 60px;
+    font-weight:bold ;
+    color:rgba(29, 216, 29, 0.815);
+    
+    
+
+}
+
+#table_id
+{
+    background-color: black;
+    
+    
+}
+
+
+#tab1:hover{
+    background-color: rgba(24, 219, 24, 0.74);
+}
+#tab2:hover{
+    background-color: rgba(24, 219, 24, 0.74);
+}
+#tab3:hover{
+    background-color: rgba(24, 219, 24, 0.74);
+}
+#tab4:hover{
+    background-color: rgba(24, 219, 24, 0.74);
+}
+#tab5:hover{
+    background-color: rgba(24, 219, 24, 0.74);
+}
+
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(24, 219, 24, 0.74);
+    font-size: 35px;
+    font-weight: bold; 
+    padding-left: 6px;   
+}
+
+
+.content{
+    font-family: 'Balsamiq Sans', cursive; 
+    padding-left: 4px; 
+}
+
+
+.select{
+background-color: rgb(235, 228, 228);
+}
+
+/*font-family: 'Balsamiq Sans', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+rgba(24, 219, 24, 0.74)
+*/
